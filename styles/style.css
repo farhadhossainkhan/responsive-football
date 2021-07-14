@@ -55,3 +55,10 @@ p{
 .footer img{
     width: 450px;
 }
+.fab{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fab:hover{
+    margin: 5px;
+}
