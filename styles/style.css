@@ -1,9 +1,32 @@
+/* font adding */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 /* players charts style */
 .players{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    margin-left: 195px;
+    margin-right: 195px;
 }
-.player img{
-   
 
+.player{
+    height: 474px;
+    width: 330px;
+    padding: 15px;
+    border: 30px;
+    margin-bottom: 27px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 0px;
+}
+
+.player img{
+    width: 90%;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
