@@ -41,7 +41,6 @@ header{
 .text{
     color: whitesmoke;
     font-size: 55px;
-    
     margin-right: 50px;
 }
 
@@ -79,6 +78,17 @@ header{
 .match-watch{
     margin-right: 60px;
     padding: 40px 10px;
+}
+
+.watch{
+    color: whitesmoke;
+    font-size: 30px;
+    background-color: darkslateblue;
+    border-radius: 5px;
+}
+
+.watch:hover{
+    color: yellowgreen;
 }
 
 /* logo and icons adding */
