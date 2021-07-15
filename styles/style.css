@@ -19,16 +19,6 @@ p{
     font-size: 20px;
 }
 
-/* naving Style */
-nav a{
-    font-size: 25px;
-    margin-right: 20px;
-    color:whitesmoke;
-    font-weight: 700;
-    text-decoration: none;
-    
-}
-
 /* headerstyle */
 header{
     background-color:rgba(28, 7, 163, 0.932);
