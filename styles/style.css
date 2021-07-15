@@ -22,12 +22,13 @@ p{
 /* headerstyle */
 header{
     background-color:rgba(28, 7, 163, 0.932);
-    padding: 50px 180px;
+    padding: 50px 100px;
+
 }
 
 .banner-header{
     display: flex;
-    
+    padding-left: 40px;
     margin-right: 150px;
 }
 

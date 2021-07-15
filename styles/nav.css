@@ -9,7 +9,7 @@ nav li{
 }
 
 nav li:hover{
-    color: green;
+    color: coral;
     background-color: thistle;
 }
 
